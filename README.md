@@ -1,7 +1,5 @@
 # 🌱 Plant Loving Score (PLS)
 The project combines numerical, binary, and categorical variables into a weighted **0–100 PLS**, then compares different regression algorithms for learning the resulting score.
----
-## 📌 Overview
 The PLS is based on four primary features:
 - `plant_number`
 - `plant_diversity`
